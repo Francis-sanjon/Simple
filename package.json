@@ -1,0 +1,14 @@
+{
+  "name": "chromerecorder",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  },
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
